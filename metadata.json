@@ -1,0 +1,6 @@
+{
+  "name": "Indian Wire Product",
+  "description": "Industrial machinery manufacturer & exporter in Rajkot, Gujarat specializing in automatic wire nail machines and continuous wire drawing equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
